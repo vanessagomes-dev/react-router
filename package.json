@@ -8,10 +8,10 @@
     "build": "tsc -b && vite build",
     "preview": "vite preview"
   },
-  
   "dependencies": {
     "react": "^19.1.1",
-    "react-dom": "^19.1.1"
+    "react-dom": "^19.1.1",
+    "react-router": "^7.0.2"
   },
   "devDependencies": {
     "@types/node": "^24.6.0",
