@@ -1,0 +1,16 @@
+.layout-header {
+    font-size: 16px;
+    color: #3d3d3d;
+    margin-bottom: 32px;
+}
+
+footer {
+    width: 100%;
+    margin-top: 40px;
+    text-align: center;
+    color: #888;
+}
+
+footer span {
+    font-weight: 400;
+}
